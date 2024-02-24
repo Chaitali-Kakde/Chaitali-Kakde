@@ -1,4 +1,5 @@
 👋 Hi, I’m @Chaitali-Kakde
+
 👀 I'm passionate about unraveling the stories hidden within data and transforming them into actionable insights. With 5.5 years of experience in the field, I've honed my skills in data manipulation, visualization, and analysis.
 
 💼 Work Experience
@@ -22,6 +23,7 @@
 🎓 Education
   Bachlore of Engg in Electronics & Telecommunication
     (2014-2018,RTMNU university)
+
 📫 Lets connect on
    - chaitalikakde210@gmail.com
 <!---
