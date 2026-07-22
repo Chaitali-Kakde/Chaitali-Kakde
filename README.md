@@ -11,6 +11,7 @@ workflows that drive business decisions — across Finance, HR, Sales, and Opera
 - Leading root-cause analysis on SLA failures and ticket delays to drive corrective action
 
 **Data Analysis Executive @Springer Nature Technology** (Aug-2022 to Present)
+
     - Creating looker dashboard for enhanced data representation of SMEs productivity.
     - Preparing daily, weekly and monthly performance report.
     - Extract existing data to calculate/format into presentable reports, charts and graphs.
