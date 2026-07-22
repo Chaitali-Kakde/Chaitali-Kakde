@@ -4,6 +4,7 @@ Data Analyst with 8 years of experience turning raw data into dashboards, report
 workflows that drive business decisions — across Finance, HR, Sales, and Operations.
 
 💼 Work Experience
+
 **Sr. Executive – Data Analysis & Reporting @ Schindler** (Aug 2024 – Present)
 - Delivering 15+ BI dashboards across Finance, Sales & Marketing, Engineering, HR, and Operations
 - Administering the cloud BI platform for 180+ users — access control, security, governed publishing
